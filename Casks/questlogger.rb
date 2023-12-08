@@ -1,12 +1,14 @@
 cask "questlogger" do
-  version "0.2.1"
-  sha256 "3f093c6cf8b8e425f6a64a26837f068ea5215c42634ae8d26452c342bf2409a4"
+  version "0.2.2"
+  sha256 "4eb4cb0affddf24482b76a1c70431e2f14d50036a67c9e72acf7b4789e15b893"
 
-  url "https://github.com/ghall89/QuestLogger/releases/download/v#{version}/QuestLogger.app.zip"
+  url "https://github.com/ghall89/QuestLogger/releases/download/v#{version}/QuestLogger.zip"
 
   name "QuestLogger"
   desc "Video game backlog manager"
   homepage "https://github.com/ghall89/QuestLogger"
+
+  depends_on macos: ">= :ventura"
 
   app "QuestLogger.app"
 

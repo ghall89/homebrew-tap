@@ -1,10 +1,14 @@
-# Ghall89 Apps
+# ghall89/tap
 
 ## How do I install these formulae?
 
-`brew install ghall89/apps/<formula>`
+`brew install --cask ghall89/tap/<formula>`
 
-Or `brew tap ghall89/apps` and then `brew install <formula>`.
+Or `brew tap ghall89/tap` and then `brew install --cask <formula>`.
+
+## Formula
+
+- `questlogger`
 
 ## Documentation
 
