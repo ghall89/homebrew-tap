@@ -8,8 +8,9 @@ Or `brew tap ghall89/tap` and then `brew install --cask <formula>`.
 
 ## Formula
 
-- `questlogger`
+- `questlogger` - Video game backlog manager
+- `siphon` - Software license organizer
 
 ## Documentation
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+`brew help`, `man brew` or check the [Homebrew documentation](https://docs.brew.sh).
