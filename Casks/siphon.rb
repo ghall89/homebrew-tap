@@ -1,5 +1,5 @@
 
-cask "serial-box" do
+cask "siphon" do
   version "1.0.0"
   sha256 "d8c68e0f3e28b6f70dd857d97e177bfd0791e52086ef530cc97193d6fcb170be"
 
