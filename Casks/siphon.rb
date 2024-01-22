@@ -1,7 +1,7 @@
 
 cask "siphon" do
-  version "1.0.0"
-  sha256 "d8c68e0f3e28b6f70dd857d97e177bfd0791e52086ef530cc97193d6fcb170be"
+  version "1.1.0"
+  sha256 "8e6ba970853da07b4464c5deb38cb5d3e3bde6c99ca6c7e0725d36e14291d4e9"
 
   url "https://github.com/ghall89/Siphon/releases/download/v#{version}/Siphon.zip"
 
@@ -9,7 +9,7 @@ cask "siphon" do
   desc "GUI front-end for yt-dlp"
   homepage "https://github.com/ghall89/Siphon"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: ">= :ventura"
   depends_on formula: "yt-dlp"
 
   app "Siphon.app"
