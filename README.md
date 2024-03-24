@@ -9,7 +9,8 @@ Or `brew tap ghall89/tap` and then `brew install --cask <formula>`.
 ## Formula
 
 - `questlogger` - Video game backlog manager
-- `siphon` - Software license organizer
+- `keystash` - Software license key manager
+- `siphon` - GUI front end for yt-dlp
 
 ## Documentation
 
