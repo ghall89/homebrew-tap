@@ -1,6 +1,6 @@
 cask "keystash" do
-  version "0.3.2"
-  sha256 "c7fb4cdde5812617c7b279f26a1f3d698c8f42286bb29a4b3ef12f54d1c73dcc"
+  version "0.4.0"
+  sha256 "f76ab5b162c86430d2240670e1ba5d995bad7140887f5bfce64af9358adfae31"
 
   url "https://github.com/ghall89/KeyStash/releases/download/v#{version}/KeyStash.zip"
 
@@ -8,7 +8,7 @@ cask "keystash" do
   desc "Software license key manager"
   homepage "https://github.com/ghall89/KeyStash"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: ">= :sequoia"
 
   app "KeyStash.app"
 
