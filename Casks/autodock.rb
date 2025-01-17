@@ -10,7 +10,7 @@ cask "autodock" do
 
   depends_on macos: ">= :sequoia"
 
-  app "KeyStash.app"
+  app "AutoDock.app"
 
   zap trash: [
   	"~/Library/Preferences/com.ghall.dev.AutoDock.plist",
