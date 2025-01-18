@@ -1,11 +1,11 @@
 cask "autodock" do
-  version "1.0.0"
-  sha256 "a319c0cf125f36063922647828fc1c89f80ada9c996f8266a671e2a0fb2a9e71"
+  version "1.0.1"
+  sha256 "ee7d3abfbcbd9683a5a72bbd6fa0b43d30b4cd850a486e9320f602bbdfef9888"
 
   url "https://github.com/ghall89/AutoDock/releases/download/v#{version}/AutoDock.zip"
 
   name "AutoDock"
-  desc "Software license key manager"
+  desc "Utility for automatically hiding and showing the MacOS Dock"
   homepage "https://github.com/ghall89/AutoDock"
 
   depends_on macos: ">= :sequoia"
