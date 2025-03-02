@@ -8,6 +8,7 @@ Or `brew tap ghall89/tap` and then `brew install --cask <formula>`.
 
 ## Formula
 
+- `autodock` - Utility for automatically hiding and showing the MacOS Dock
 - `questlogger` - Video game backlog manager
 - `keystash` - Software license key manager
 - `siphon` - GUI front end for yt-dlp
