@@ -1,6 +1,6 @@
 cask "autodock" do
-  version "1.1.0"
-  sha256 "cfb654594fad54e76f40893bde9b19d4e104fec10465a17adc908dfaf33a2f9e"
+  version "1.2.0"
+  sha256 "442dadfd97f78645949d9f179cced19b94c74c2cf04bfea53a46396e39d2d7e8"
 
   url "https://github.com/ghall89/AutoDock/releases/download/v#{version}/AutoDock.zip"
 
