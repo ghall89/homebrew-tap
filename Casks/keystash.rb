@@ -1,6 +1,6 @@
 cask "keystash" do
-  version "0.4.0"
-  sha256 "17eb8d1bdfd8e060105a31c9fef75e484950c1ba2aa449c613bc2e2c2a510672"
+  version "0.5.0"
+  sha256 "8b25600451853521d41576aa58b1e0be3409232bc73349eeb8ac3bc2eca3acd3"
 
   url "https://github.com/ghall89/KeyStash/releases/download/v#{version}/KeyStash.zip"
 
