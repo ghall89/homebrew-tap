@@ -1,8 +1,8 @@
 cask 'autodock' do
-  version '1.2.1'
-  sha256 '447f63f41bc64656befaa4d9bbefa2ee0993daf08d36a247f89655bfc4ac1f12'
+  version '1.3.0'
+  sha256 '0203e339c7b91fb120a89856bdd3392b46865ff74834e0f900b02fc18d8d4b78'
 
-  url "https://github.com/ghall89/AutoDock/releases/download/v#{version}/AutoDock.zip"
+  url "https://github.com/ghall89/AutoDock/releases/download/v#{version}/AutoDock.dmg"
 
   name 'AutoDock'
   desc 'Utility for automatically hiding and showing the MacOS Dock'
