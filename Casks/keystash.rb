@@ -1,6 +1,6 @@
 cask 'keystash' do
   version '0.8.0-80'
-  sha256 '4764a99a7b0a9a390284600e563c0b8fb1cdd9f67c458df87cb92ef9a63acf93'
+  sha256 '57ccd36b5be85c75e100ca7ead84c9e4365ce2ddc585d78f9cfcd74bb5d86f30'
 
   url "https://cdn.amore.computer/releases/com.ghalldev.KeyStash/#{version}/KeyStash.zip"
 
