@@ -6,7 +6,7 @@ cask 'keystash' do
 
   name 'KeyStash'
   desc 'Software license key manager'
-  homepage 'https://github.com/ghall89/KeyStash'
+  homepage 'https://codeberg.org/ghalldev/KeyStash'
 
   depends_on macos: '>= :sonoma'
 
