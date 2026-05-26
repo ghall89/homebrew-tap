@@ -1,6 +1,6 @@
 cask 'palette' do
-  version '0.2.0-20'
-  sha256 '188d9f48cd7ef49a60d4db873a11698e07aca9db0a8aac4bdea9352e22ac0d3e'
+  version '0.2.1-21'
+  sha256 'd202479a86e4b0390d0a26b0dfffa746149a455648c4d520aa514e7557eed1c9'
 
   url "https://cdn.amore.computer/releases/com.ghalldev.Palette/#{version}/Palette.zip"
 
