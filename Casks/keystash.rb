@@ -1,8 +1,8 @@
 cask 'keystash' do
-  version '0.8.0-80'
-  sha256 '57ccd36b5be85c75e100ca7ead84c9e4365ce2ddc585d78f9cfcd74bb5d86f30'
+  version :latest
+  sha256 :no_check
 
-  url "https://cdn.amore.computer/releases/com.ghalldev.KeyStash/#{version}/KeyStash.zip"
+  url "https://api.amore.computer/v1/apps/com.ghalldev.KeyStash/download"
 
   name 'KeyStash'
   desc 'Software license key manager'

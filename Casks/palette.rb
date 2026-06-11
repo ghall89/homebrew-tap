@@ -1,8 +1,8 @@
 cask 'palette' do
-  version '0.2.1-21'
-  sha256 'd202479a86e4b0390d0a26b0dfffa746149a455648c4d520aa514e7557eed1c9'
+  version :latest
+  sha256 :no_check
 
-  url "https://cdn.amore.computer/releases/com.ghalldev.Palette/#{version}/Palette.zip"
+  url "https://api.amore.computer/v1/apps/com.ghalldev.Palette/download"
 
   name 'Palette'
   desc 'A universal command palette for your Mac'
