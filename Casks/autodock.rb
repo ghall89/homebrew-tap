@@ -8,7 +8,7 @@ cask 'autodock' do
   desc 'Utility for automatically hiding and showing the macOS Dock'
   homepage 'https://github.com/ghall89/AutoDock'
 
-  depends_on macos: '>= :sequoia'
+  depends_on macos: :sequoia
 
   app 'AutoDock.app'
 

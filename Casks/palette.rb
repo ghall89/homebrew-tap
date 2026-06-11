@@ -8,7 +8,7 @@ cask 'palette' do
   desc 'A universal command palette for your Mac'
   homepage 'https://codeberg.org/ghalldev/Palette'
 
-  depends_on macos: '>= :tahoe'
+  depends_on macos: :tahoe
 
   app 'Palette.app'
 
