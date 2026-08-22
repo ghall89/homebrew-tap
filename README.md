@@ -6,12 +6,12 @@
 
 Or `brew tap ghall89/tap` and then `brew install --cask <formula>`.
 
-## Formula
+## Casks
 
 - `autodock` - Utility for automatically hiding and showing the MacOS Dock
-- `questlogger` - Video game backlog manager
+- `cornerstone` - Customize windows on macOS Tahoe
 - `keystash` - Software license key manager
-- `siphon` - GUI front end for yt-dlp
+- `palette` - A universal command palette for your Mac
 
 ## Documentation
 
